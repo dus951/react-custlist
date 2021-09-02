@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dus951/react-custlist.git/static/css/main.899c941e.chunk.css",
+    "main.js": "/dus951/react-custlist.git/static/js/main.fb6abafe.chunk.js",
+    "main.js.map": "/dus951/react-custlist.git/static/js/main.fb6abafe.chunk.js.map",
+    "runtime-main.js": "/dus951/react-custlist.git/static/js/runtime-main.a4cacac9.js",
+    "runtime-main.js.map": "/dus951/react-custlist.git/static/js/runtime-main.a4cacac9.js.map",
+    "static/css/2.818011ed.chunk.css": "/dus951/react-custlist.git/static/css/2.818011ed.chunk.css",
+    "static/js/2.d98ce178.chunk.js": "/dus951/react-custlist.git/static/js/2.d98ce178.chunk.js",
+    "static/js/2.d98ce178.chunk.js.map": "/dus951/react-custlist.git/static/js/2.d98ce178.chunk.js.map",
+    "static/js/3.c2db3829.chunk.js": "/dus951/react-custlist.git/static/js/3.c2db3829.chunk.js",
+    "static/js/3.c2db3829.chunk.js.map": "/dus951/react-custlist.git/static/js/3.c2db3829.chunk.js.map",
+    "index.html": "/dus951/react-custlist.git/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/dus951/react-custlist.git/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.899c941e.chunk.css.map": "/dus951/react-custlist.git/static/css/main.899c941e.chunk.css.map",
+    "static/js/2.d98ce178.chunk.js.LICENSE.txt": "/dus951/react-custlist.git/static/js/2.d98ce178.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4cacac9.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.d98ce178.chunk.js",
+    "static/css/main.899c941e.chunk.css",
+    "static/js/main.fb6abafe.chunk.js"
+  ]
+}
